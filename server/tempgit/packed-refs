@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+3ce61d214594861d70c169f40902437779caa350 refs/remotes/origin/master
+cb37545febb9f0358fbbfc96cd8c1d6df19f9ec4 refs/remotes/origin/mysql
+22d540c42dfd2d79810546a2e167dfb6d0669c7b refs/remotes/origin/no-mongo
